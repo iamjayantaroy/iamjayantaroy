@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Create an API Using Spring Boot.<br>🤝🏻I'm looking for help with React Js & a partner for create a project.<br>🌱I'm Currently Learning Spring Boot<br>💭Ask me about recent technology.<br>⚡️
+Hi, I’m a passionate QA Tester Intern with hands-on experience in software testing and a strong focus on ensuring product quality and reliability. My journey into quality assurance began with a curiosity for how things work behind the scenes, and it has evolved into a solid foundation in both manual and exploratory testing.
 
 
 ## 🌐 Socials:
